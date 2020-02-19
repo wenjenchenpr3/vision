@@ -1,4 +1,4 @@
-# Welcome to the Azure Vision Workshop!
+# Welcome to the Azure Vision Workshop!!
 
 This workshop is a segment from the Ignite 2019 App Developer Keynote: "[App Development for Everyone](https://youtu.be/h9YaYdoqiRA?t=3890)" by Scott Hanselman and Seth Juarez. 
 
